@@ -1,0 +1,12 @@
+# Per-student state: never commit
+.kit-installed
+Courses/
+/_coursework-log.md
+.claude/settings.local.json
+
+# Lecture media and OS junk
+*.mp4
+*.mov
+*.m4a
+*.wav
+.DS_Store
